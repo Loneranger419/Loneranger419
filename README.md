@@ -21,7 +21,7 @@ A port of Scooby-Doo! Night of 100 Frights from GameCube to Windows: [Scooby-Doo
 
 I am also learning how to use AI for literally anything. If done right it can do a really good job.  
 The journey to finding the best way is the fun part.  
-Most of my projects are for myself, but I share them incase they're useful for other. Feel free to open issues and make suggestions.
+Most of my projects are for myself, but I share them incase they're useful for others. Feel free to open issues and make suggestions.
 
 <!--
 **Loneranger419/Loneranger419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
