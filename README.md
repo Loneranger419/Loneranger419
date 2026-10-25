@@ -1,6 +1,8 @@
+## About Me
+
 Hobbyist developer · Self-hoster · Professional tinkerer
 
-Building tools, experimenting with AI-assisted development, fixing broken software, and occasionally creating new problems to solve.
+Building tools, experimenting with AI-assisted development, fixing broken software, and creating new problems to solve when there doesn't need to be.
 
 ## What I'm working on
 
