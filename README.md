@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 <img width="2046" height="768" alt="UnmarkedRider Western Desert Poster" src="https://github.com/user-attachments/assets/097ab9c3-7da4-4edb-a670-0a5a586e6467" />  
 
 Building tools, experimenting with AI-assisted development, fixing broken software, and creating new problems to solve when there doesn't need to be.
-</p>
+</div>
 
 ## What I'm working on
 
