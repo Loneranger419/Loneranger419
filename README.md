@@ -2,7 +2,8 @@ Hobbyist developer · Self-hoster · Professional tinkerer
 
 Building tools, experimenting with AI-assisted development, fixing broken software, and occasionally creating new problems to solve.
 
-What I'm working on
+## What I'm working on
+
 Software development — Utilities, web applications, and automation.
 
 Gaming — Game preservation, bug fixes, and community projects.
