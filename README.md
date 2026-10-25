@@ -14,10 +14,12 @@ Self-hosting — Linux, Docker, and server infrastructure.
 
 ## Current (kinda) Obsessions
 
-A port of Scooby-Doo! Night of 100 Frights from GameCube to Windows: [Scooby-Doo! Refrightened](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened)
-  I'm trying to debug it mostly. I have ideas for things I want to add after its in a more stable state.
-  I have some [tools](https://github.com/Loneranger419/Scooby-Doo-Refrightened-debug) for aiding and speeding up the debugging process.
-  Currently working on fixing some [alpha layer issues](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened/issues/16) in the HD texture pack.
+A port of Scooby-Doo! Night of 100 Frights from GameCube to Windows: [Scooby-Doo! Refrightened](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened)  
+- I'm trying to debug it mostly. I have ideas for things I want to add after its in a more stable state.  
+- I have some [tools](https://github.com/Loneranger419/Scooby-Doo-Refrightened-debug) for aiding and speeding up the debugging process.  
+- Currently working on fixing some [alpha layer issues](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened/issues/16) in the HD texture pack.
+
+Also learning how to use AI for literally anything. If done right it can do a really good job. The journey to finding the best way is the fun part.
 
 <!--
 **Loneranger419/Loneranger419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
