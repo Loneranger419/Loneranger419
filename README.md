@@ -1,5 +1,13 @@
-## Hi there 👋
+Hobbyist developer · Self-hoster · Professional tinkerer
 
+Building tools, experimenting with AI-assisted development, fixing broken software, and occasionally creating new problems to solve.
+
+What I'm working on
+Software development — Utilities, web applications, and automation.
+
+Gaming — Game preservation, bug fixes, and community projects.
+
+Self-hosting — Linux, Docker, and server infrastructure.
 <!--
 **Loneranger419/Loneranger419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
